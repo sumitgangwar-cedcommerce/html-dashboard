@@ -187,7 +187,9 @@ table {
   font-family: Jost;
 }
 
-.navigation__tools {
+
+
+.navigation__items {
   display: flex;
   justify-content: space-between;
   align-items: center;
